@@ -1,1 +1,1 @@
-# static-love-page
+# static-love
